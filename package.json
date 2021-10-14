@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/rmartin1985/Zookeeper#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "heroku": "^7.59.0"
   }
 }
